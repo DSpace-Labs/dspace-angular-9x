@@ -174,7 +174,7 @@
     "@angular-eslint/schematics": "^18.4.1",
     "@angular-eslint/template-parser": "^18.4.1",
     "@angular-eslint/utils": "^18.4.1",
-    "@angular/cli": "^18.2.20",
+    "@angular/cli": "^21.0.0",
     "@angular/compiler-cli": "^18.2.12",
     "@cypress/schematic": "^1.5.0",
     "@fortawesome/fontawesome-free": "^6.7.2",
