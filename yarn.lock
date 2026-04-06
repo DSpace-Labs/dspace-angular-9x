@@ -8407,10 +8407,10 @@ ngx-infinite-scroll@^16.0.0:
   dependencies:
     tslib "^2.3.0"
 
-ngx-mask@14.2.4:
-  version "14.2.4"
-  resolved "https://registry.yarnpkg.com/ngx-mask/-/ngx-mask-14.2.4.tgz#da7ba480d7c7f5be9ff34c35a288838c58d65bbd"
-  integrity sha512-158nAe2tyiZa2T8COoI6SvJCQHqpJ4+JW0amGcvVEYUBF6FIoYK66BlnOJURAOy5qry0d0N45w7J/LGsCBgZcg==
+ngx-mask@14.3.3:
+  version "14.3.3"
+  resolved "https://registry.yarnpkg.com/ngx-mask/-/ngx-mask-14.3.3.tgz#71d955392a818d3fc724a53dba2ea7ce15de05ea"
+  integrity sha512-w+3ONEDJohM3FMkEaAarbz3mWyQ903AZ+cFXjszKaueKh8WooF+9AgktGYrv1JmK7y+2w+Q4KEMaStI01BCH4Q==
   dependencies:
     tslib "^2.3.0"
 
@@ -8734,11 +8734,6 @@ on-finished@~2.3.0:
   integrity sha512-ikqdkGAAyf/X/gPhXGvfgAytDZtDbr+bkNUJ0N9h5MI/dmdgCs3l6hoHrcUv41sRKew3jIwrp4qQDXiK99Utww==
   dependencies:
     ee-first "1.1.1"
-
-on-headers@~1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/on-headers/-/on-headers-1.0.2.tgz#772b0ae6aaa525c399e489adfad90c403eb3c28f"
-  integrity sha512-pZAE+FJLoyITytdqK0U5s+FIpjN0JP3OzFi/u8Rx+EV5/W+JTWGXG8xFzevE7AjBfDqHv/8vL8qQsIhHnqRkrA==
 
 on-headers@~1.1.0:
   version "1.1.0"
